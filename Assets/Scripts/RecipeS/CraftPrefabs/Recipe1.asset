@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05c2e3131ff14ff468e5ca019ec1f6c6, type: 3}
+  m_Name: Recipe1
+  m_EditorClassIdentifier: 
+  ResourceCost: 1
+  CraftItem: {fileID: 6562586767114427495, guid: 4844b7fe86e2d254b9fbfa317001ce81, type: 3}
+  ResourceType: Wood
